@@ -37,9 +37,6 @@ export const StyledLoginPage = styled.main`
 
     @media (max-width: 750px) {
       flex-direction: column-reverse;
-      .ballsImage {
-        display: none;
-      }
     }
   }
 `;
